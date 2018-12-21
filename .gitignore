@@ -3,6 +3,7 @@
 /build.paho/
 *.swp
 *.pyc
+*.o
 /doc/MQTTClient/
 /doc/MQTTPacket/
 /doc/MQTTClient-C/
